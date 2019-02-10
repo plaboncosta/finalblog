@@ -1,0 +1,8 @@
+Admin Dashboard Info:
+Name: plabon@blog.com
+password: rootplabon
+
+
+Author Dashboard Info:
+Name: joseph@blog.com
+Password: rootjoseph
